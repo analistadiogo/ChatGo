@@ -12,5 +12,6 @@ public class activity_cadastro extends AppCompatActivity {
         setContentView(R.layout.activity_cadastro);
 
         Toast.makeText(getBaseContext(), "oi",Toast.LENGTH_LONG).show();
+        Toast.makeText(getBaseContext(), "oi",Toast.LENGTH_LONG).show();
     }
 }
