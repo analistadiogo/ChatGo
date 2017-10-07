@@ -13,5 +13,11 @@ public class activity_cadastro extends AppCompatActivity {
 
         Toast.makeText(getBaseContext(), "oi",Toast.LENGTH_LONG).show();
         Toast.makeText(getBaseContext(), "oi",Toast.LENGTH_LONG).show();
+
+        Toast.makeText(getBaseContext(), "hj",Toast.LENGTH_LONG).show();
+        Toast.makeText(getBaseContext(), "gf",Toast.LENGTH_LONG).show();
+        Toast.makeText(getBaseContext(), "hello world",Toast.LENGTH_LONG).show();
+
+
     }
 }
